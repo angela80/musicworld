@@ -5,3 +5,5 @@ I have linked to some social network sites that someone else has made ,but i did
 I have used a bootstrap footer .
 I have created about file and used the same layout across the page.
 I created contact file with the same layout and added in a form.# musicworld
+I  have borrowed images from google and also some text from the same sites.
+I made a video of music artists using animoto trial put in about page and added a w3schools carousel and added images from the internet.
